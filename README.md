@@ -23,3 +23,4 @@ thread safety in a multithreaded environment.
 <img width="428" alt="Screenshot 2024-03-07 at 22 34 28" src="https://github.com/kuhu42/movie-ticket-booking-threads/assets/143384804/fa73898b-b454-4ca3-8cd2-e8d7d155a5cf">
 
 ## Output
+<img width="639" alt="Screenshot 2024-03-07 at 22 38 51" src="https://github.com/kuhu42/movie-ticket-booking-threads/assets/143384804/6e57a1b3-b810-4954-89ce-53d926bd8f0f">
