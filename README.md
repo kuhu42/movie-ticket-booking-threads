@@ -16,3 +16,6 @@ customers can purchase tickets for different movies while preventing conflicts a
 thread safety in a multithreaded environment.
 
 ## Working
+<img width="428" alt="Screenshot 2024-03-07 at 22 34 28" src="https://github.com/kuhu42/movie-ticket-booking-threads/assets/143384804/fa73898b-b454-4ca3-8cd2-e8d7d155a5cf">
+
+## Output
